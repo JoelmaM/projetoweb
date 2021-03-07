@@ -1,0 +1,21 @@
+body {
+   background-image: url(https://cdn.awsli.com.br/600x450/365/365099/produto/58994379/5034c5d5c0.jpg);
+   font-family:Arial, Helvetica, sans-serif;
+   text-align: center;
+   background-attachment: initial;
+
+}
+section{
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+body>section>a>img{
+    width: 243px;
+}
+a:visited{
+    color:black;
+}
+a{
+    text-decoration: none;
+}

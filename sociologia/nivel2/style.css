@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://cdn.awsli.com.br/600x450/1563/1563468/produto/59455325/31e4f32631.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 40px;
+    background-attachment: initial;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;    
+}
+a :visited{
+    color:rgb(160, 86, 86);
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a>li{
+    text-decoration: none;
+    color:black;  
+}
+a:visited>li{
+    color:rgb(160, 86, 86);
+}
+body>section>img{
+    width: 271px;
+}
+body>section>div>img{
+    width:350px;
+}
+#deveres{
+    display:grid ;
+    grid-template-columns: 1fr 1fr;
+}
+body>section>h3{
+    padding: 5px;
+
+    background-color:rgb(233, 165, 176);
+}
+body>section>img{
+    height:200px;
+    
+}
+body>section>img{
+    width: 355px;
+}
